@@ -1,10 +1,10 @@
-# HealthAI
+# HealthCareAI
 
-Our project aims for the betterment of the healthcare sector in India. We are working on timely detection of diseases on the basis of commonly used medical reports. In India, most of the population underestimates the symptoms of a particular disease and do not consult a doctor in time, which results in pernicious disease eventually.
+Our project aims for the betterment of the healthcare sector. We are working on timely detection of diseases on the basis of commonly used medical reports. Most of the population underestimates the symptoms of a particular disease and do not consult a doctor in time, which results in pernicious disease eventually.
 
 We are working on a wide range of diseases and detecting them using advanced AI techniques. We aim at providing a free and fast alternative for detecting a disease based on some medical data.We have covered and deployed our project on all platforms(like IOS, android, windows etc.).
 
-Health-AI is a project which uses advanced artificial intelligence techniques and machine learning algorithms to detect and predict deadly and life threatening diseases.
+HealthCare-AI is a project which uses advanced artificial intelligence techniques and machine learning algorithms to detect and predict deadly and life threatening diseases.
 
 Detecting and predicting a disease in terms of healthcare is something extraordinary and remarkable the implications of which can save millions of lives, our project HealthApp101 has achieved this.
 
@@ -30,11 +30,6 @@ HealthApp101 iOS App, new from scratch, in Swift.
 - You may require to run `$ pod update`
 - `$ open WebML.xcworkspace` and build.
 
-### Code Practices
-Please help us follow the best practice to make it easy for the reviewer as well as the contributor.
-* Please follow the guides and code standards: [Swift Style Guide](https://github.com/linkedin/swift-style-guide)
-* Please follow the good iOS development practices: [iOS Good Practices](https://github.com/futurice/ios-good-practices)
-
 ## App Architecture
 
 This app uses the **[MVC](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach) (Model View Controller)** Architechture pattern. (each View Controller is a View)
@@ -47,5 +42,5 @@ This app uses the **[MVC](https://www.raywenderlich.com/1000705-model-view-contr
 
 ## Author
 
-* *[Pushpinder Pal Singh](https://github.com/pushpinderpalsingh)*
+* *[Rexift](https://github.com/rexift)*
 
